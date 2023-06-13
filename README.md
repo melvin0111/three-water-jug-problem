@@ -1,1 +1,2 @@
 # three-water-jug-problem
+The three water jug problem involves three jugs with different capacities, and the goal is to use the Breadth-First Search (BFS) algorithm to find the minimum number of steps required to reach a specific amount of water in one of the jugs by pouring, filling, or emptying them. BFS explores all possible states in a breadth-first manner, ensuring an optimal solution if it exists.
